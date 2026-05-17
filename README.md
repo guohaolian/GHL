@@ -1,2 +1,2 @@
 # GHL
-study
+studying
